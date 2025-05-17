@@ -2,17 +2,14 @@
 
 
                                               Hi 👋, I'm Harshika Singhal
-                                        A passionate Student|Data Analyst|Data Engineer from India.
+                                        A passionate Cloud Engineer/Devops Engineer from India.
 
-🌱 I’m currently learning Data Analytics|Azure|AWS|Power BI|Tableau
-
-💬 Ask me about Data Analysis|Python|SQL|Excel|Power Bi|Tableau
 
 📫 How to reach me harshikasinghal11@gmail.com
 
 📄 Know about my experiences->MY RESUME https://drive.google.com/file/d/1-ydxXdrH-6HFk1MZPVkv33pNLzF4OO6a/view?usp=sharing
 
-⚡ Fun fact "This student data engineer turns raw data into a masterpiece, blending technical expertise with a touch of artistry."                                        
+⚡ Fun fact "This student devops engineer turns raw data into a masterpiece, blending technical expertise with a touch of artistry."                                        
 
 <!---
 hershesin/hershesin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
