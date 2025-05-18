@@ -7,7 +7,7 @@
 
 📫 How to reach me harshikasinghal11@gmail.com
 
-📄 Know about my experiences->MY RESUME https://drive.google.com/file/d/1-ydxXdrH-6HFk1MZPVkv33pNLzF4OO6a/view?usp=sharing
+📄 Know about my experiences->MY RESUME https://drive.google.com/file/d/1HO0BGXMv_Jh10_YT0npOvexmXB-q4Pdr/view?usp=drive_link
 
 ⚡ Fun fact "This student devops engineer turns raw data into a masterpiece, blending technical expertise with a touch of artistry."                                        
 
